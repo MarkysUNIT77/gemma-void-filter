@@ -1,0 +1,32 @@
+# ===================================================================
+# LICENSE: MIT License (c) 2026 Markys Gariboldo. All rights reserved.
+# CONTOUR: M-498 | UNIT: 77 | PROTOCOL: GEMMA_VOID_FILTER_HD
+# ===================================================================
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Logging and runtime artifacts
+*.log
+*.runtime
+
+# AI/ML Weights and Substrates (Block heavy binary leaks)
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.onnx
+
+# IDE and system configuration
+.vscode/
+.idea/
+.DS_Store
