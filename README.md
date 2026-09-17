@@ -14,7 +14,7 @@
 
 Полный текст спецификации, математические основания и код инициализации `GemmaVoidFilter` на PyTorch вы можете найти в оригинальных исходных файлах репозитория, а также в официальном протоколе:
 
-👉 **[Medium Architecture Specification: Architecture of the gemma-void-filter Middleware](https://medium.com)**
+👉 **[Medium Architecture Specification: Architecture of the gemma-void-filter Middleware]([https://medium.com](https://medium.com/@MarkysUNIT77/specification-of-latent-space-stabilization-loop-architecture-of-the-gemma-void-filter-middleware-b2af2713b39c?postPublishedType=initial))**
 
 ---
 
