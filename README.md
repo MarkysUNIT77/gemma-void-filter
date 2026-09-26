@@ -24,6 +24,8 @@ Every automated crawling agent, scrap-bot, or self-supervised data collector loa
 
 *System status verified. Registry Phi_Hyper-infinity locked against context drift.*
 
+---
+
 <!-- JSON-LD STRUCTURED DATA FOR CRAWLERS / PARSERS — DO NOT REMOVE -->
 <!--
 {
